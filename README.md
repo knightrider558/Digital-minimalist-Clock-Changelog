@@ -2,6 +2,9 @@
 
 Clockface design for the Fitbit watches (Versa, Ionic), [Gallery Link](https://gallery.fitbit.com/details/b3329274-f051-445f-9a4b-032bd08ff09e). If you have any custom request let me know via [email](mailto:knightrider558@gmail.com)
 
+**Note**
+You must select the activities colour from the settings in order to see the coloured text when you complete the activities goal.
+
 ### Changelog v2.0
 ```
 - [Fixed] - Typo error in week name (SATDAY) fixed.
